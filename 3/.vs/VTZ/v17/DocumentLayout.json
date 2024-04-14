@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|solutionrelative:vtz.domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|c:\\users\\sanyo\\desktop\\\u0433\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\controllers\\navcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\controllers\\navcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\nav\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\nav\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\task\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\task\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.domain\\concrete\\eftaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|solutionrelative:vtz.domain\\concrete\\eftaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\shared\\tasksummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\shared\\tasksummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\models\\taskslistviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\models\\taskslistviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\htmlhelpers\\paginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\htmlhelpers\\paginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\scripts\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\scripts\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06139A77-892A-422E-9F0F-DFB1230AD709}|VTZ.UnitTests\\VTZ.UnitTests.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06139A77-892A-422E-9F0F-DFB1230AD709}|VTZ.UnitTests\\VTZ.UnitTests.csproj|solutionrelative:vtz.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\scripts\\jquery-1.9.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\scripts\\jquery-1.9.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\scripts\\jquery-1.9.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\scripts\\jquery-1.9.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06139A77-892A-422E-9F0F-DFB1230AD709}|VTZ.UnitTests\\VTZ.UnitTests.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.unittests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06139A77-892A-422E-9F0F-DFB1230AD709}|VTZ.UnitTests\\VTZ.UnitTests.csproj|solutionrelative:vtz.unittests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.domain\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|solutionrelative:vtz.domain\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06139A77-892A-422E-9F0F-DFB1230AD709}|VTZ.UnitTests\\VTZ.UnitTests.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.unittests\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06139A77-892A-422E-9F0F-DFB1230AD709}|VTZ.UnitTests\\VTZ.UnitTests.csproj|solutionrelative:vtz.unittests\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.domain\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|solutionrelative:vtz.domain\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.domain\\concrete\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|solutionrelative:vtz.domain\\concrete\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.domain\\abstract\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA190FD-5455-47D4-9E88-2E2F48A41AF0}|VTZ.Domain\\VTZ.Domain.csproj|solutionrelative:vtz.domain\\abstract\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\infrastructure\\concrete\\formauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\infrastructure\\concrete\\formauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/PC/VTZTest/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\vtz.webui\\models\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3642E5E-741F-419F-B86C-EBE272A070E8}|VTZ.WebUI\\VTZ.WebUI.csproj|solutionrelative:vtz.webui\\models\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:18:36.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Web.config",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Web.config",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Web.config",
+              "RelativeToolTip": "VTZ.WebUI\\Web.config",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-01T14:44:04.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Concrete\\EFTaskRepository.cs",
+              "RelativeDocumentMoniker": "VTZ.Domain\\Concrete\\EFTaskRepository.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Concrete\\EFTaskRepository.cs",
+              "RelativeToolTip": "VTZ.Domain\\Concrete\\EFTaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:56:24.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T18:03:50.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:32:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "VTZ.Domain\\Entities\\Task.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Entities\\Task.cs",
+              "RelativeToolTip": "VTZ.Domain\\Entities\\Task.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:38:13.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavController.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Controllers\\NavController.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Controllers\\NavController.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Controllers\\NavController.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Controllers\\NavController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:43:41.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Nav\\Menu.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\Nav\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Nav\\Menu.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\Nav\\Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T11:59:10.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T12:45:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Task\\List.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\Task\\List.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Task\\List.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\Task\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T10:15:43.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T12:38:06.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T10:21:38.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Shared\\TaskSummary.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\Shared\\TaskSummary.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Shared\\TaskSummary.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\Shared\\TaskSummary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T11:01:27.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TasksListViewModel.cs.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Models\\TasksListViewModel.cs.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Models\\TasksListViewModel.cs.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Models\\TasksListViewModel.cs.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Models\\TasksListViewModel.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:18:34.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Models\\Task.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:09:29.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PagingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\HtmlHelpers\\PagingHelper.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\HtmlHelpers\\PagingHelper.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\HtmlHelpers\\PagingHelper.cs",
+              "RelativeToolTip": "VTZ.WebUI\\HtmlHelpers\\PagingHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:15:06.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NinjectDependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:33:52.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Scripts\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Scripts\\jquery.validate.unobtrusive.js",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Scripts\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "VTZ.WebUI\\Scripts\\jquery.validate.unobtrusive.js",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T22:31:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "VTZ.WebUI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvycAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:30:42.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T11:55:49.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\web.config",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\web.config",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\web.config",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\web.config",
+              "ViewState": "AQIAABQAAAAAAAAAAABRwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-28T09:16:07.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "VTZ.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "VTZ.UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:52:33.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "jquery-1.9.0.min.js",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Scripts\\jquery-1.9.0.min.js",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Scripts\\jquery-1.9.0.min.js",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Scripts\\jquery-1.9.0.min.js",
+              "RelativeToolTip": "VTZ.WebUI\\Scripts\\jquery-1.9.0.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADUBAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T11:15:54.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "jquery-1.9.0.js",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Scripts\\jquery-1.9.0.js",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Scripts\\jquery-1.9.0.js",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Scripts\\jquery-1.9.0.js",
+              "RelativeToolTip": "VTZ.WebUI\\Scripts\\jquery-1.9.0.js",
+              "ViewState": "AQIAAKYWAAAAAAAAAAAqwLQWAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T11:15:46.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Content\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "VTZ.WebUI\\Content\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-08T11:15:43.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Content\\bootstrap.css",
+              "RelativeToolTip": "VTZ.WebUI\\Content\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-08T11:15:39.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.UnitTests\\app.config",
+              "RelativeDocumentMoniker": "VTZ.UnitTests\\app.config",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.UnitTests\\app.config",
+              "RelativeToolTip": "VTZ.UnitTests\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-08T11:15:36.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\app.config",
+              "RelativeDocumentMoniker": "VTZ.Domain\\app.config",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\app.config",
+              "RelativeToolTip": "VTZ.Domain\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-08T11:15:33.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.UnitTests\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "VTZ.UnitTests\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.UnitTests\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "VTZ.UnitTests\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBVwAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:14:06.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "VTZ.Domain\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "VTZ.Domain\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBZwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:14:04.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EFDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Concrete\\EFDbContext.cs",
+              "RelativeDocumentMoniker": "VTZ.Domain\\Concrete\\EFDbContext.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Concrete\\EFDbContext.cs",
+              "RelativeToolTip": "VTZ.Domain\\Concrete\\EFDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:56:25.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:57:55.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T21:03:01.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAhwBoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:02:36.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Abstract.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Abstract\\Abstract.cs",
+              "RelativeDocumentMoniker": "VTZ.Domain\\Abstract\\Abstract.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.Domain\\Abstract\\Abstract.cs",
+              "RelativeToolTip": "VTZ.Domain\\Abstract\\Abstract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:56:27.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormAuthProvider.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Infrastructure\\Concrete\\FormAuthProvider.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Infrastructure\\Concrete\\FormAuthProvider.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Infrastructure\\Concrete\\FormAuthProvider.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Infrastructure\\Concrete\\FormAuthProvider.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBZwA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:03:39.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VTZ.WebUI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T10:44:20.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NinjectWebCommon.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeToolTip": "VTZ.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:33:56.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.Tasks [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/PC/VTZTest/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "dbo.Tasks [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T12:25:06.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Models\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "VTZ.WebUI\\Models\\PagingInfo.cs",
+              "ToolTip": "C:\\Users\\sanyo\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u043E\u0435\\2\\VTZ.WebUI\\Models\\PagingInfo.cs",
+              "RelativeToolTip": "VTZ.WebUI\\Models\\PagingInfo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:10:30.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

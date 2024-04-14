@@ -1,0 +1,18 @@
+﻿@using VTZ.WebUI.Models
+@using VTZ.WebUI.HtmlHelpers
+@model TasksListViewModel
+
+@{
+    ViewBag.Title = "Задачи";
+}
+
+@foreach (var p in @Model.Tasks)
+{
+    @Html.Partial("TaskSummary", p)
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List",
+        new { page = x, category = Model.CurrentDocNo }))
+</div>
+

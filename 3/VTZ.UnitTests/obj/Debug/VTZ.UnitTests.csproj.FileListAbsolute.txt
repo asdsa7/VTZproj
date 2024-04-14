@@ -1,0 +1,2 @@
+C:\Users\sanyo\source\repos\VTZ\VTZ.UnitTests\obj\Debug\VTZ.UnitTests.csproj.AssemblyReference.cache
+C:\Users\sanyo\source\repos\VTZ\VTZ.UnitTests\obj\Debug\VTZ.UnitTests.csproj.CoreCompileInputs.cache
